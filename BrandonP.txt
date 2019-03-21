@@ -2,7 +2,6 @@ Brandon Pampuch
 
 sad.
 
-<<<<<<< HEAD
 I hate cats and code.
 
 
@@ -13,6 +12,3 @@ I hate cats and code.
 
 
 ammended content*
-=======
-I hate cats and code.
->>>>>>> 6b1722c3b185da6d691a014ab482ceb4c3738667
